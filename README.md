@@ -2,7 +2,7 @@
 
 I enjoy coding, learning and solving problems.
 
-<a href="https://github.com/liviamendess">
+<a href="https://github.com/liviamendes">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=liviamendes&show_icons=true&theme=cobalt" style="max-width:100%;"/>
 </a>
 <a href="https://github.com/liviamendes">
